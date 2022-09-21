@@ -4,6 +4,8 @@ livro
 Arroz ,
 strgonoff, 
 batata palha , 
-coquinha gelada 
+coquinha gelada.
 
-é amassa essa belezura 
+próxima dica :
+
+ amassa essa belezura 
